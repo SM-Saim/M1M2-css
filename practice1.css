@@ -1,0 +1,9 @@
+.third {
+  background-color: rgb(255, 179, 80);
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  border: 5px solid rgb(185, 52, 52);
+  border-radius: 5px;
+  margin: 10px;
+  padding: 10px;
+  box-shadow: 10px 10px 10px rgb(191, 252, 92);
+}
